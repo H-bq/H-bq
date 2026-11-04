@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&vCenter=true&width=500&lines=Java+%26+Spring+Boot+Developer;AI+Application+Engineering;Building+Smart+Social+Platforms" alt="Typing SVG" />
 </p>
 
-- 🚀 专注于 **Java 后端开发** 与 **AI 智能化应用集成** (Spring AI / LLM)
-- 💡 正在开发 **feel** — 仿 Soul 算法匹配的 AI 智能社交平台
-- 🛠️ 常用技术：Java, Spring Boot, Spring AI, Web AI Integration, HTML/CSS
+- 🚀 专注于 **后端开发** 与 **AI 智能化应用集成** (Spring AI / LLM)
+- 💡 开发 **Feel** — 仿 Soul 算法匹配的 AI 智能社交平台
+- 🛠️ 常用技术：Java， Python, Spring Boot, Spring AI, Web AI Integration, Vue
 -  📫 如何联系我：欢迎关注我的 CSDN / GitHub
 
 ---
